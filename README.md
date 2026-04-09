@@ -1,4 +1,3 @@
-Here is the clean, plain-text version of your README.md. I’ve avoided putting it into complex blocks so the formatting doesn't break when you copy it into a text editor.
 YT-Auto-Description
 
 A modern, local Python GUI application that automates the creation of highly engaging, SEO-optimized YouTube descriptions and timestamped chapters for gaming videos.
