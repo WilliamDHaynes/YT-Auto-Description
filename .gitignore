@@ -1,0 +1,18 @@
+# Environments
+venv/
+env/
+
+# API Keys and Secrets (CRITICAL)
+.env
+
+# PyInstaller Build Folders
+build/
+dist/
+*.spec
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Temp Audio Files
+temp_audio.wav
